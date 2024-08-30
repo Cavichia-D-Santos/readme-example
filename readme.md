@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-      <img src="[caminho-da-imagem]" width="400px">
+      <img src="/src/github_banner.png" width="400px">
 </p>
 
 <h1 align="center" id="desc">README Template</h1>
