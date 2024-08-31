@@ -12,7 +12,8 @@ This README has the objective of creating an example of how to create a good REA
 - Menu / Content table
 - Technologies
 
-[Copiar badges do repositório **github.com/Naereen/badges**]
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 
 ## Content table
 
